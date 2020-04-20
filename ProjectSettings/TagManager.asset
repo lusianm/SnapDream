@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - Ground
+  - InteractableObject
+  - BoundaryCollider
+  - Ladder
+  - Ladder Exit
+  - Drag
+  - Throw
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - Boundury
+  - Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - TopBoundary
+  - Throw
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3750585119
+    locked: 0
+  - name: Object
+    uniqueID: 1604493165
+    locked: 0
+  - name: Ladder
+    uniqueID: 1413470803
+    locked: 0
+  - name: Interactable
+    uniqueID: 128266361
+    locked: 0
+  - name: Player
+    uniqueID: 3751486187
+    locked: 0
